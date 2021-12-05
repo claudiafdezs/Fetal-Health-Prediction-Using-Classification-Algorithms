@@ -7,7 +7,8 @@ The objective is to predict fetal health using classification algorithms, such a
 
 Link to dataset: https://archive-beta.ics.uci.edu/ml/datasets/cardiotocography
 
-**Methodology
+**Methodology**
+
 **Exploratory Data Analysis**
 As shown in Figure 2., the methodology for this project begins with an Exploratory Data Analysis. This first step provides descriptive statistics of the data used to create the predictive models.
 Data Preparation
