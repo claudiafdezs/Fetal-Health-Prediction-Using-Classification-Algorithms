@@ -5,8 +5,8 @@ Cardiotocography (CTG) is a frequently used diagnostic technique to monitor feta
 This project utilizes an open-source dataset available in UCI Machine Learning Repository, consisting of 2,126 instances and 21 attributes. Each instance represents measurements of fetal heart rate signals and uterine contractions using CTG. The dataset contains information corresponding to normal, suspect, and pathological fetal states, which are the three classes of the dataset. These classes were determined by three expert obstetricians for each of the instances.
 The objective is to predict fetal health using classification algorithms, such as Random Forest, XGBoost, and Multi-layer Perceptron (MLP). The performance of these algorithms will be measured by calculating precision, accuracy, recall, and F-1, among others. The analyses and comparisons of the accuracy of these different algorithms are performed using Python.
 
-
 Link to dataset: https://archive-beta.ics.uci.edu/ml/datasets/cardiotocography
+
 **Methodology
 **Exploratory Data Analysis**
 As shown in Figure 2., the methodology for this project begins with an Exploratory Data Analysis. This first step provides descriptive statistics of the data used to create the predictive models.
