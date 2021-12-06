@@ -10,7 +10,7 @@ Link to dataset: https://archive-beta.ics.uci.edu/ml/datasets/cardiotocography
 **Methodology**
 
 **Exploratory Data Analysis**
-As shown in Figure 2., the methodology for this project begins with an Exploratory Data Analysis. This first step provides descriptive statistics of the data used to create the predictive models.
+The methodology for this project begins with an Exploratory Data Analysis. This first step provides descriptive statistics of the data used to create the predictive models.
 Data Preparation
 Based on the exploratory data analysis findings, I decided to scale six of the 21 attributes. These attributes represent different types of measurements obtained from the cardiotocography. 
 The measurements were transformed from per second to an average per minute.
